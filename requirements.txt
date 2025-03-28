@@ -1,0 +1,14 @@
+azure-functions
+azure-functions-durable
+azure-storage-blob
+azure-storage-queue
+azure-core
+azure-cosmos
+mysql-connector-python
+pandas
+sendgrid
+azure-eventhub
+azure-communication-email
+cffi
+incoming
+certifi
